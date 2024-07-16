@@ -1,6 +1,6 @@
 # PowerBi--Projects
 
-# HR Data Analysis with Power BI
+# HR Dashboards with Power BI
 The dataset is of Hr data of two countries, India and New Zealand with differnt columns of Date of join, Name, Rating, Salary, Gender, Age, Department, Country. 
 1. How many people are there in each department?
 2. Gender distribution by department
@@ -11,7 +11,7 @@ The dataset is of Hr data of two countries, India and New Zealand with differnt 
 7. Company growth trend
 8. Employee Filter (by starting letter)
    
-# Hospital Analysis with Power Bi
+# Hospital Reports with Power Bi
 The dataset is of Hospital which contains,Patient_Id, admit_date, discharge_date, Doctor, Billing Amount, Bed_occupancy, Follow up date and Health_insurance.
 The following are keen to visualiuzed here.
 1. Patient info according to patient_ID.
